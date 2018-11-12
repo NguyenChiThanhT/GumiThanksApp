@@ -1,0 +1,11 @@
+//fetch data API
+export const START_FETCH_REQUEST = "START_FETCH_REQUEST";
+export const FETCH_SUCCESS = "FETCH_SUCCESS";
+export const FETCH_ERROR = "FETCH_ERROR";
+//Update person
+export const UPDATE_PERSON = "UPDATE_PERSON";
+//Toggle
+export const MODALVISIBLE = "MODALVISIBLE";
+export const MODALVISIBLE_POST = "MODALVISIBLE_POST";
+export const DIALOGVISIBLE = "DIALOGVISIBLE";
+export const PROGRESSVISIBLE = "PROGRESSVISIBLE";
